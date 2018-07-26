@@ -15,7 +15,7 @@
 # end
 # change_rainbow_colors
 
- add_colors = ["red","light_red","light_yellow"]
+ 
 def add_colors
   add_colors = ["red","light_red","light_yellow"]
   puts add_colors.push("green")
